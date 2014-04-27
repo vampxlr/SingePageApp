@@ -34,7 +34,7 @@
             var Books = [
                 { BookName: 'Ice and Fire', AuthorName: 'Milano', Pages: 2565, Publisher: 'Springer' },
                 { BookName: 'Harry Potter', AuthorName: 'J.K Rowling', Pages: 323, Publisher: 'JK Publication' },
-                { BookName: 'Breif History Of Time', AuthorName: 'Crippled', Pages: 234, Publisher: 'BestSeller' },
+                { BookName: 'Breif History Of Time', AuthorName: 'Stephen', Pages: 234, Publisher: 'BestSeller' },
                 { BookName: 'Black Hole', AuthorName: 'Ahsan Dylan', Pages: 324, Publisher: 'North Dakota' }
             ];
             return $q.when(Books);
