@@ -1,6 +1,0 @@
-G:\Web Projects\SavvyGrep\empty\empty\bin\empty.dll.config
-G:\Web Projects\SavvyGrep\empty\empty\bin\empty.dll
-G:\Web Projects\SavvyGrep\empty\empty\bin\empty.pdb
-G:\Web Projects\SavvyGrep\empty\empty\obj\Debug\empty.csprojResolveAssemblyReference.cache
-G:\Web Projects\SavvyGrep\empty\empty\obj\Debug\empty.dll
-G:\Web Projects\SavvyGrep\empty\empty\obj\Debug\empty.pdb
